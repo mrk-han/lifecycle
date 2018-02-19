@@ -16,5 +16,5 @@ Example:
         Log.v("MainActivity", "onStart");
     }
 ```
-[onStart Example](https://github.com/mrk-han/lifecycle/blob/master/onStart_log_example.png)
+![onStart Example](https://github.com/mrk-han/lifecycle/blob/master/onStart_log_example.png)
 
